@@ -1,6 +1,3 @@
-```
-https://deb.debian.org/debian/pool/main/g/glibc/
-```
 
 ```
 https://packages.nginx.org/nginx-quic/ubuntu/
